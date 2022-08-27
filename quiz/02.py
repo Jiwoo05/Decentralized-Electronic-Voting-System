@@ -43,5 +43,3 @@ while True:
         print(res.text)
     elif menu == '4':
         break
-
-        
